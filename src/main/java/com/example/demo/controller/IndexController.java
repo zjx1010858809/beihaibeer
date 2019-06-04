@@ -22,7 +22,12 @@ public class IndexController {
 	@RequestMapping("gallery1")
 	public String gallery1(){
 	
-		return "gallery";
+		return "gallery1";
+	}
+	@RequestMapping("gallery21")
+	public String gallery21(){
+	
+		return "gallery21";
 	}
 	//进入联系我们界面
 	@RequestMapping("contact")
