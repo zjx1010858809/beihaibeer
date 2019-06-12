@@ -29,6 +29,11 @@ public class IndexController {
 	
 		return "gallery21";
 	}
+	@RequestMapping("gallery22")
+	public String gallery22(){
+	
+		return "gallery22";
+	}
 	//进入联系我们界面
 	@RequestMapping("contact")
 	public String contact(){
