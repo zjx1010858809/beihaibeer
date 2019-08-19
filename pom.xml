@@ -61,7 +61,7 @@
 		</dependency>
 
 		<dependency>
-			<!-- 热部署 -->
+			<!-- 热部署 test-->
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-devtools</artifactId>
 			<optional>true</optional>
